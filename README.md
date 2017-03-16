@@ -4,7 +4,7 @@ A curses-like library with a high level terminal interface API for node.js.
 
 ![blessed](https://raw.githubusercontent.com/chjj/blessed/master/img/v0.1.0-3.gif)
 
-[Documentation](/docs)
+[Documentation](docs)
 
 ## License
 
